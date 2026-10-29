@@ -8,6 +8,7 @@ Technische Hinweise zum Theme stehen in `AGENTS.md`.
 - **Idee:** ruhiges, hochwertiges Label für die bosnische Diaspora (16–35, v. a. DE, AT, CH, Skandinavien, USA). Vintage-Stickerei, bosnische Lilie, Nostalgie mit Augenzwinkern.
 - **Leitspruch:** „you met me at a very bosnian time in my life“
 - **Stil:** Schwarz, Anthrazit, Creme. Serifenschrift für Überschriften, viel Leerraum.
+- **Erster Entwurf:** `design/mockup-hoodie-v1.png` (KI-Mockup Hoodie: Ranke mit Lilie vorne, Spruch hinten). Lilie ist dort noch eine französische Fleur-de-Lis, und die Ranke ist für Stickerei zu fein.
 - **Markenname:** noch offen. Favoriten: `bihtime` (bihtime.com frei), `bihatelier` (bihatelier.com frei), `verybosnian` (verybosnian.com frei).
 - **Nicht verwenden:** „Made in BiH“ – Printful produziert nicht in Bosnien, das wäre irreführend.
 
