@@ -9,7 +9,7 @@ Technische Hinweise zum Theme stehen in `AGENTS.md`.
 - **Leitspruch:** „you met me at a very bosnian time in my life“
 - **Stil:** Schwarz, Anthrazit, Creme. Serifenschrift für Überschriften, viel Leerraum.
 - **Erster Entwurf:** `design/mockup-hoodie-v1.png` (KI-Mockup Hoodie: Ranke mit Lilie vorne, Spruch hinten). Lilie ist dort noch eine französische Fleur-de-Lis, und die Ranke ist für Stickerei zu fein.
-- **Markenname:** noch offen. Favoriten: `bihtime` (bihtime.com frei), `bihatelier` (bihatelier.com frei), `verybosnian` (verybosnian.com frei).
+- **Markenname:** **bihtime** (entschieden am 29.10.2026). Domain: **bihtime.com** (am 29.10. frei, noch nicht gekauft). Hashtag/Accounts: #bihtime, @bihtime. Variante bih-time.com ebenfalls frei, optional als Weiterleitung.
 - **Nicht verwenden:** „Made in BiH“ – Printful produziert nicht in Bosnien, das wäre irreführend.
 
 ## Technik
@@ -59,10 +59,10 @@ Technische Hinweise zum Theme stehen in `AGENTS.md`.
 - [x] CLAUDE.md mit Checkliste angelegt
 
 ### 1. Name und Marke (bis 31.10.)
-- [ ] Markennamen festlegen
-- [ ] Im Markenregister TMview prüfen, ob der Name geschützt ist
-- [ ] Prüfen, ob @name auf TikTok und Instagram frei ist
-- [ ] Domain kaufen (Shopify → Einstellungen → Domains, ca. 10–18 €/Jahr)
+- [x] Markennamen festlegen: bihtime
+- [ ] Im Markenregister TMview prüfen, ob „bihtime“ geschützt ist
+- [ ] Prüfen, ob @bihtime auf TikTok und Instagram frei ist
+- [ ] Domain bihtime.com kaufen (Shopify → Einstellungen → Domains, ca. 10–18 €/Jahr)
 - [ ] TikTok- und Instagram-Account anlegen
 
 ### 2. Design (bis 31.10.)
