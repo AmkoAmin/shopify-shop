@@ -10,7 +10,11 @@ Technische Hinweise zum Theme stehen in `AGENTS.md`.
 - **Stil:** Schwarz, Anthrazit, Creme. Serifenschrift für Überschriften, viel Leerraum.
 - **Erster Entwurf:** `design/mockup-hoodie-v1.png` (KI-Mockup Hoodie: Ranke mit Lilie vorne, Spruch hinten). Lilie ist dort noch eine französische Fleur-de-Lis, und die Ranke ist für Stickerei zu fein.
 - **Aktueller Entwurf (30.10.2026):** `design/mockup-longsleeve-v1.png`, erstellt mit `design/masterprompt-longsleeve.txt` und der RBiH-Flagge als Referenz. Vorne mittig eine vereinfachte Ranke (ca. 20 cm breit, Lilienblüte, Knospe, ca. 10 Blätter) mit schlanker bosnischer Lilie wie auf der RBiH-Flagge, hinten der Spruch als Druck. Entscheidung 30.10.: Spruch nur klein unter dem Kragen (ca. 10–12 cm breit, Buchstaben ca. 5–6 mm, als Druck, nicht gestickt), nicht 24 cm breit wie im Mockup v1. Für die Produktionsdatei: Staubfäden weglassen oder verdicken, Lilie auf 3,5–4 cm Höhe vergrößern.
-- **Zweite Variante „Most“ (30.10.2026):** Longsleeve mit Stari Most als Linienzeichnung vorne mittig (ca. 12 × 5 cm, gestickt), gleiche kleine Rückenschrift. Gedacht für Männer bzw. unisex und für alle Bosnier, nicht nur Bosniaken. Prompt: `design/masterprompt-longsleeve-most.txt` (Referenzen: Foto der Brücke und RBiH-Flagge).
+- **Entscheidung 30.10.2026: zwei Longsleeve-Varianten, sonst nichts.**
+  - **„Ranke“:** Ranke mit Lilienblüte und Lilie vorne mittig (ca. 20 × 5–6 cm), eher Frauen bzw. unisex
+  - **„Ljiljan“:** nur die Lilie, klein auf der linken Brust (ca. 4 cm hoch), eher Männer. Gleiches Stickmotiv wie die Beanie, also nur eine Digitalisierung.
+  - Beide mit derselben kleinen Rückenschrift unter dem Kragen.
+- **Idee für später (nicht zum Start):** Variante mit Stari Most als Linienzeichnung, Prompt liegt in `design/masterprompt-longsleeve-most.txt`.
 - **Bosnische Lilie:** Form wie auf der Flagge der RBiH von 1992: schlank und hoch, mittleres Blatt spitz, kleine eingerollte Seitenblätter, dünnes Band, etwas längerer Fuß. Ähnelt der Fleur-de-Lis, ist aber schlanker.
 - **Markenname:** **bihtime** (entschieden am 29.10.2026). Domain: **bihtime.com**, gekauft am 30.10.2026 über Shopify, Hauptdomain des Shops, Kontakt-E-Mail verifiziert, automatische Verlängerung für 16 $/Jahr. Hashtag/Accounts: #bihtime, @bihtime. Variante bih-time.com ebenfalls frei, optional als Weiterleitung.
 - **Nicht verwenden:** „Made in BiH“ – Printful produziert nicht in Bosnien, das wäre irreführend.
@@ -29,7 +33,8 @@ Technische Hinweise zum Theme stehen in `AGENTS.md`.
 | Produkt | Ausführung | Produktion | Verkaufspreis | Marge ca. |
 |---|---|---|---|---|
 | Beanie | Lilie gestickt, ca. 4 cm hoch | ca. 13–15 € | 27 € | ca. 11 € |
-| Longsleeve | Stickerei vorne mittig ca. 20 × 5–6 cm (Ranke), Spruch hinten klein unter dem Kragen als Druck (ca. 10–12 × 3 cm, 4–5 cm unter der Kragennaht), schwerer Stoff ab ca. 200 g/m² | ca. 27–33 € (größere Stickerei, Preis prüfen) | 39–42 € | ca. 9–13 € |
+| Longsleeve „Ljiljan“ | Lilie gestickt auf der linken Brust ca. 4 cm hoch (gleiches Motiv wie Beanie), Spruch hinten klein unter dem Kragen als Druck | ca. 22–27 € (Preis prüfen) | ca. 35 € | ca. 7–12 € |
+| Longsleeve „Ranke“ | Stickerei vorne mittig ca. 20 × 5–6 cm (Ranke), Spruch hinten klein unter dem Kragen als Druck (ca. 10–12 × 3 cm, 4–5 cm unter der Kragennaht), schwerer Stoff ab ca. 200 g/m² | ca. 27–33 € (größere Stickerei, Preis prüfen) | 39–42 € | ca. 9–13 € |
 
 - **Produktion:** Printful mit EU-Produktion (Qualität und Stickerei wichtiger als ein paar Euro Marge)
 - **Steuern:** Kleinunternehmer-Regel (§ 19 UStG)
@@ -72,7 +77,9 @@ Technische Hinweise zum Theme stehen in `AGENTS.md`.
 ### 2. Design (bis 31.10.)
 - [ ] Fleur-de-Lis durch die bosnische Lilie ersetzen
 - [ ] Beanie-Motiv erstellen (Lilie ca. 4 cm hoch, eventuell mit Schriftzug)
-- [ ] Longsleeve-Motive erstellen: Brust-Stickerei ca. 10 × 5 cm, Rückendruck ca. 24 cm breit
+- [x] Mockup Longsleeve „Ranke“ (`design/mockup-longsleeve-v1.png`)
+- [ ] Mockup mit kleiner Rückenschrift unter dem Kragen aktualisieren
+- [ ] Produktionsdateien erstellen: Ranke ca. 20 × 5–6 cm (Stickerei), Lilie allein ca. 4 cm hoch (Stickerei, für „Ljiljan“ und Beanie), Rückenschrift ca. 10–12 × 3 cm (Druck)
 - [ ] Motive für Stickerei vereinfachen (dickere Linien, weniger Blätter, keine Schattierung)
 
 ### 3. Printful und Teststich (bis ca. 2.11.)
