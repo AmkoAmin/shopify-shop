@@ -60,8 +60,8 @@ Technische Hinweise zum Theme stehen in `AGENTS.md`.
 
 ### 1. Name und Marke (bis 31.10.)
 - [x] Markennamen festlegen: bihtime
-- [ ] Im Markenregister TMview prüfen, ob „bihtime“ geschützt ist
-- [ ] Prüfen, ob @bihtime auf TikTok und Instagram frei ist
+- [x] Im Markenregister TMview prüfen, ob „bihtime“ geschützt ist (30.10.2026: keine Treffer für „bihtime“, bei „bih time“ nur unpassende Treffer)
+- [ ] Optional, niedrige Priorität: prüfen, ob @bihtime auf TikTok und Instagram frei ist
 - [ ] Domain bihtime.com kaufen (Shopify → Einstellungen → Domains, ca. 10–18 €/Jahr)
 - [ ] TikTok- und Instagram-Account anlegen
 
