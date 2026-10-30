@@ -9,7 +9,7 @@ Technische Hinweise zum Theme stehen in `AGENTS.md`.
 - **Leitspruch:** „you met me at a very bosnian time in my life“
 - **Stil:** Schwarz, Anthrazit, Creme. Serifenschrift für Überschriften, viel Leerraum.
 - **Erster Entwurf:** `design/mockup-hoodie-v1.png` (KI-Mockup Hoodie: Ranke mit Lilie vorne, Spruch hinten). Lilie ist dort noch eine französische Fleur-de-Lis, und die Ranke ist für Stickerei zu fein.
-- **Aktueller Entwurf (30.10.2026):** `design/mockup-longsleeve-v1.png`, erstellt mit `design/masterprompt-longsleeve.txt` und der RBiH-Flagge als Referenz. Vorne mittig eine vereinfachte Ranke (ca. 20 cm breit, Lilienblüte, Knospe, ca. 10 Blätter) mit schlanker bosnischer Lilie wie auf der RBiH-Flagge, hinten der Spruch als Druck (ca. 24 cm). Für die Produktionsdatei: Staubfäden weglassen oder verdicken, Lilie auf 3,5–4 cm Höhe vergrößern.
+- **Aktueller Entwurf (30.10.2026):** `design/mockup-longsleeve-v1.png`, erstellt mit `design/masterprompt-longsleeve.txt` und der RBiH-Flagge als Referenz. Vorne mittig eine vereinfachte Ranke (ca. 20 cm breit, Lilienblüte, Knospe, ca. 10 Blätter) mit schlanker bosnischer Lilie wie auf der RBiH-Flagge, hinten der Spruch als Druck. Entscheidung 30.10.: Spruch nur klein unter dem Kragen (ca. 10–12 cm breit, Buchstaben ca. 5–6 mm, als Druck, nicht gestickt), nicht 24 cm breit wie im Mockup v1. Für die Produktionsdatei: Staubfäden weglassen oder verdicken, Lilie auf 3,5–4 cm Höhe vergrößern.
 - **Bosnische Lilie:** Form wie auf der Flagge der RBiH von 1992: schlank und hoch, mittleres Blatt spitz, kleine eingerollte Seitenblätter, dünnes Band, etwas längerer Fuß. Ähnelt der Fleur-de-Lis, ist aber schlanker.
 - **Markenname:** **bihtime** (entschieden am 29.10.2026). Domain: **bihtime.com**, gekauft am 30.10.2026 über Shopify, Hauptdomain des Shops, Kontakt-E-Mail verifiziert, automatische Verlängerung für 16 $/Jahr. Hashtag/Accounts: #bihtime, @bihtime. Variante bih-time.com ebenfalls frei, optional als Weiterleitung.
 - **Nicht verwenden:** „Made in BiH“ – Printful produziert nicht in Bosnien, das wäre irreführend.
@@ -28,7 +28,7 @@ Technische Hinweise zum Theme stehen in `AGENTS.md`.
 | Produkt | Ausführung | Produktion | Verkaufspreis | Marge ca. |
 |---|---|---|---|---|
 | Beanie | Lilie gestickt, ca. 4 cm hoch | ca. 13–15 € | 27 € | ca. 11 € |
-| Longsleeve | Stickerei vorne mittig ca. 20 × 5–6 cm (Ranke), Spruch hinten als Druck ca. 24 cm breit, schwerer Stoff ab ca. 200 g/m² | ca. 27–33 € (größere Stickerei, Preis prüfen) | 39–42 € | ca. 9–13 € |
+| Longsleeve | Stickerei vorne mittig ca. 20 × 5–6 cm (Ranke), Spruch hinten klein unter dem Kragen als Druck (ca. 10–12 × 3 cm, 4–5 cm unter der Kragennaht), schwerer Stoff ab ca. 200 g/m² | ca. 27–33 € (größere Stickerei, Preis prüfen) | 39–42 € | ca. 9–13 € |
 
 - **Produktion:** Printful mit EU-Produktion (Qualität und Stickerei wichtiger als ein paar Euro Marge)
 - **Steuern:** Kleinunternehmer-Regel (§ 19 UStG)
