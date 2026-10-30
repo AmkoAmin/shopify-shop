@@ -88,13 +88,14 @@ Technische Hinweise zum Theme stehen in `AGENTS.md`.
 - [ ] Motive für Stickerei vereinfachen (dickere Linien, weniger Blätter, keine Schattierung)
 
 ### 3. Printful und Teststich (bis ca. 2.11.)
-- [ ] Printful-Konto anlegen bzw. einloggen
+- [x] Printful-Konto anlegen bzw. einloggen
 - [ ] Gratis-T-Shirt aus der Mail mitnehmen
 - [ ] Beanie und Longsleeve mit Stickerei und EU-Produktion heraussuchen
 - [ ] Pro Produkt prüfen: welche Platzierungen (vorne, hinten, Ärmel), ist Stickerei mit Druck kombinierbar?
 - [ ] Echte Preise notieren (inkl. Aufpreis pro Platzierung und Digitalisierungsgebühr) und Marge neu rechnen
-- [ ] Printful-App in Shopify installieren
-- [ ] Designs hochladen und die Stickvorschau im Designer prüfen
+- [x] Printful-App in Shopify installieren
+- [x] Designs hochladen und in Shopify einbinden (erste Produkte über Printful angelegt)
+- [ ] Stickvorschau im Designer prüfen
 - [ ] Teststich bzw. Muster bestellen (Beanie und Longsleeve mit allen geplanten Platzierungen)
 - [ ] Teststich prüfen: feine Linien sauber? Rückenschrift lesbar? Farbe Creme auf Schwarz passend? Stoff zieht sich nicht zusammen, innen nicht kratzig? Stoff und Passform gut?
 - [ ] Falls nötig: Motiv vereinfachen und zweiten Teststich bestellen (1–2 Wochen Puffer)
