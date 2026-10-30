@@ -1,0 +1,46 @@
+bihtime – Maße und Platzierung (Stand 30.10.2026)
+Alle Maße beziehen sich auf das Motiv selbst (Dateien ohne leeren Rand).
+"Links" = linke Seite aus Sicht der Person, die das Shirt trägt.
+
+1) LONGSLEEVE „RANKE“ – Vorderseite, STICKEREI
+   Datei:     design/ranke-final.png
+   Breite:    20,0 cm
+   Höhe:      5,3 cm (ergibt sich aus der Breite)
+   Lilie im Motiv: ca. 4,1 cm hoch
+   Position:  mittig auf der Brust (horizontal zentriert),
+              Oberkante ca. 8–10 cm unter der vorderen Kragennaht
+   Printful:  Platzierung „Vorne“ bzw. „Large center / Center chest“
+
+2) LONGSLEEVE „LJILJAN“ – Vorderseite, STICKEREI
+   Datei:     design/lilie-final.png
+   Höhe:      4,0 cm
+   Breite:    2,1 cm (ergibt sich aus der Höhe)
+   Position:  linke Brust (aus Trägersicht), Mitte des Motivs ca. 9–10 cm
+              links von der vorderen Mittellinie, Oberkante ca. 18–20 cm unter
+              dem höchsten Schulterpunkt (dort, wo Kragen und Schulternaht treffen)
+   Printful:  Platzierung „Left chest“ (Standardposition übernehmen, nur Größe anpassen)
+
+3) LONGSLEEVE (beide Varianten) – Rückseite, DRUCK (nicht sticken)
+   Datei:     design/rueckenschrift-final.png
+   Breite:    11,0 cm
+   Höhe:      2,9 cm (ergibt sich aus der Breite)
+   Position:  horizontal zentriert, Oberkante ca. 4–5 cm unter der hinteren
+              Kragennaht (nicht näher als 3 cm an die Naht)
+   Printful:  Platzierung „Back“ bzw. „Back neck“, Technik DTG-Druck
+
+4) BEANIE – Vorderseite, STICKEREI
+   Datei:     design/lilie-final.png (gleiches Motiv wie „Ljiljan“)
+   Höhe:      3,8 cm
+   Breite:    2,0 cm (ergibt sich aus der Höhe)
+   Position:  vorne mittig auf dem Umschlag, vertikal mittig im Umschlag
+   Printful:  Platzierung „Front“
+
+FARBE
+   Garn bzw. Druck: Creme / Off-White, Zielton #F2EBDD
+   (bei Printful die nächstliegende Garnfarbe wählen, z. B. Off-White oder Beige)
+   Produktfarbe: Schwarz
+
+HINWEISE
+   - In Printful die Größe über Breite bzw. Höhe exakt eintragen, nicht per Augenmaß ziehen.
+   - Prüfen, ob das gewählte Longsleeve Stickerei vorne UND Druck hinten zulässt.
+   - Maximale Stickfläche des Produkts prüfen (Ranke braucht 20 cm Breite).
