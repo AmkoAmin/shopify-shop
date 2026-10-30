@@ -9,7 +9,7 @@ Technische Hinweise zum Theme stehen in `AGENTS.md`.
 - **Leitspruch:** „you met me at a very bosnian time in my life“
 - **Stil:** Schwarz, Anthrazit, Creme. Serifenschrift für Überschriften, viel Leerraum.
 - **Erster Entwurf:** `design/mockup-hoodie-v1.png` (KI-Mockup Hoodie: Ranke mit Lilie vorne, Spruch hinten). Lilie ist dort noch eine französische Fleur-de-Lis, und die Ranke ist für Stickerei zu fein.
-- **Markenname:** **bihtime** (entschieden am 29.10.2026). Domain: **bihtime.com** (am 29.10. frei, noch nicht gekauft). Hashtag/Accounts: #bihtime, @bihtime. Variante bih-time.com ebenfalls frei, optional als Weiterleitung.
+- **Markenname:** **bihtime** (entschieden am 29.10.2026). Domain: **bihtime.com**, gekauft am 30.10.2026 über Shopify, Hauptdomain des Shops, Kontakt-E-Mail verifiziert, automatische Verlängerung für 16 $/Jahr. Hashtag/Accounts: #bihtime, @bihtime. Variante bih-time.com ebenfalls frei, optional als Weiterleitung.
 - **Nicht verwenden:** „Made in BiH“ – Printful produziert nicht in Bosnien, das wäre irreführend.
 
 ## Technik
@@ -62,7 +62,8 @@ Technische Hinweise zum Theme stehen in `AGENTS.md`.
 - [x] Markennamen festlegen: bihtime
 - [x] Im Markenregister TMview prüfen, ob „bihtime“ geschützt ist (30.10.2026: keine Treffer für „bihtime“, bei „bih time“ nur unpassende Treffer)
 - [ ] Optional, niedrige Priorität: prüfen, ob @bihtime auf TikTok und Instagram frei ist
-- [ ] Domain bihtime.com kaufen (Shopify → Einstellungen → Domains, ca. 10–18 €/Jahr)
+- [x] Domain bihtime.com kaufen (30.10.2026, als Hauptdomain gesetzt, E-Mail verifiziert)
+- [ ] Shopnamen von „Mein Shop 2“ auf „bihtime“ ändern (Einstellungen → Allgemein)
 - [ ] TikTok- und Instagram-Account anlegen
 
 ### 2. Design (bis 31.10.)
