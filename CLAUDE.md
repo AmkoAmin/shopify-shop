@@ -85,7 +85,6 @@ Technische Hinweise zum Theme stehen in `AGENTS.md`.
 - [x] Mockup Longsleeve „Ranke“ (`design/mockup-longsleeve-v1.png`)
 - [ ] Mockup mit kleiner Rückenschrift unter dem Kragen aktualisieren
 - [x] Produktionsdateien v2 (30.10.2026): `design/ranke-v2.png`, `design/lilie-v2.png`, `design/rueckenschrift-v2.png` – bereinigt (Rauschen entfernt, einheitlich #F2EBDD, 300 DPI), überall dieselbe Lilie aus lilie-v1. Die v1-Dateien sind die ungeänderten Originale aus ChatGPT.
-- [ ] (ursprüngliche Aufgabe) Produktionsdateien erstellen: Ranke ca. 20 × 5–6 cm (Stickerei), Lilie allein ca. 4 cm hoch (Stickerei, für „Ljiljan“ und Beanie), Rückenschrift ca. 10–12 × 3 cm (Druck)
 - [ ] Motive für Stickerei vereinfachen (dickere Linien, weniger Blätter, keine Schattierung)
 
 ### 3. Printful und Teststich (bis ca. 2.11.)
