@@ -6,7 +6,8 @@
  * or related systems. Please exercise caution as any changes
  * made to this file may be overwritten.
  * ------------------------------------------------------------
- */{
+ */
+{
   "sections": {
     "hero_jVaWmY": {
       "type": "hero",
@@ -15,18 +16,18 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<p>Browse our latest products</p>",
-            "text_color": "{{ settings.color_palette.background }}",
+            "text": "<p>you met me at a very<br>bosnian time in my life</p>",
+            "text_color": "{{ settings.color_palette.foreground }}",
             "width": "fit-content",
-            "max_width": "normal",
-            "alignment": "left",
-            "type_preset": "h2",
-            "font": "var(--font-body--family)",
+            "max_width": "none",
+            "alignment": "center",
+            "type_preset": "h1",
+            "font": "var(--font-heading--family)",
             "font_size": "1rem",
             "line_height": "normal",
             "letter_spacing": "normal",
             "case": "none",
-            "wrap": "pretty",
+            "wrap": "balance",
             "background": false,
             "background_color": "#00000026",
             "corner_radius": 0,
@@ -41,23 +42,39 @@
           "type": "button",
           "name": "t:names.button",
           "settings": {
-            "label": "Shop all",
+            "label": "Zur Kollektion",
             "link": "shopify://collections/all",
             "open_in_new_tab": false,
             "style_class": "button-custom",
             "custom_button_background": "rgba(0,0,0,0)",
-            "custom_button_text": "{{ settings.color_palette.background }}",
-            "custom_button_border": "{{ settings.color_palette.background }}",
+            "custom_button_text": "{{ settings.color_palette.foreground }}",
+            "custom_button_border": "{{ settings.color_palette.foreground }}",
             "width": "fit-content",
             "custom_width": 100,
             "width_mobile": "fit-content",
             "custom_width_mobile": 100
           },
           "blocks": {}
+        },
+        "text_sub": {
+          "type": "text",
+          "name": "t:names.text",
+          "settings": {
+            "text": "<p>Bestickt mit der bosnischen Lilie. Für alle, die Bosnien im Herzen tragen.</p>",
+            "text_color": "{{ settings.color_palette.color1 }}",
+            "alignment": "center",
+            "type_preset": "paragraph",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "width": "fit-content",
+            "max_width": "narrow"
+          },
+          "blocks": {}
         }
       },
       "block_order": [
         "text_YLPk4p",
+        "text_sub",
         "button_H9gpTf"
       ],
       "name": "t:names.hero",
@@ -75,20 +92,20 @@
         "vertical_alignment": "flex-end",
         "align_baseline": true,
         "horizontal_alignment_flex_direction_column": "center",
-        "vertical_alignment_flex_direction_column": "flex-end",
-        "gap": 24,
+        "vertical_alignment_flex_direction_column": "center",
+        "gap": 28,
         "section_width": "page-width",
-        "section_height": "medium",
+        "section_height": "large",
         "section_height_custom": 50,
-        "background_color": "rgba(0,0,0,0)",
-        "toggle_overlay": true,
+        "background_color": "{{ settings.color_palette.background }}",
+        "toggle_overlay": false,
         "overlay_color": "#12121266",
         "overlay_style": "solid",
         "gradient_direction": "to bottom",
         "blurred_reflection": false,
         "reflection_opacity": 75,
         "padding-block-start": 100,
-        "padding-block-end": 72
+        "padding-block-end": 100
       }
     },
     "product_list_fa6P9H": {
@@ -130,12 +147,12 @@
               "type": "_product-list-text",
               "name": "t:names.collection_title",
               "settings": {
-                "text": "<h3>{{ closest.collection.title }}</h3>",
+                "text": "<h3>Die Kollektion</h3>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
-                "type_preset": "h4",
-                "font": "var(--font-body--family)",
+                "type_preset": "h3",
+                "font": "var(--font-heading--family)",
                 "line_height": "normal",
                 "letter_spacing": "normal",
                 "case": "none",
@@ -154,7 +171,7 @@
               "type": "_product-list-button",
               "name": "t:names.product_list_button",
               "settings": {
-                "label": "View all",
+                "label": "Alle ansehen",
                 "open_in_new_tab": false,
                 "style_class": "link",
                 "width": "fit-content",
@@ -261,8 +278,8 @@
         "collection": "all",
         "layout_type": "grid",
         "carousel_on_mobile": false,
-        "max_products": 8,
-        "columns": 4,
+        "max_products": 6,
+        "columns": 3,
         "mobile_columns": "2",
         "mobile_card_size": "60cqw",
         "columns_gap": 8,
@@ -276,10 +293,55 @@
         "padding-block-start": 48,
         "padding-block-end": 48
       }
+    },
+    "story_bihtime": {
+      "type": "section",
+      "name": "t:names.section",
+      "blocks": {
+        "story_heading": {
+          "type": "text",
+          "name": "t:names.heading",
+          "settings": {
+            "text": "<h2>Die Lilie</h2>",
+            "alignment": "center",
+            "type_preset": "h2",
+            "font": "var(--font-heading--family)",
+            "width": "100%",
+            "max_width": "none"
+          },
+          "blocks": {}
+        },
+        "story_text": {
+          "type": "text",
+          "name": "t:names.text",
+          "settings": {
+            "text": "<p>Die Lilie steht seit dem Mittelalter für Bosnien, vom Wappen der Kotromanići bis zur Flagge von 1992. bihtime macht daraus ruhige, bestickte Stücke für die Diaspora: für alle, die irgendwo zwischen hier und dort zu Hause sind.</p>",
+            "text_color": "{{ settings.color_palette.color1 }}",
+            "alignment": "center",
+            "type_preset": "paragraph",
+            "width": "100%",
+            "max_width": "narrow"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "story_heading",
+        "story_text"
+      ],
+      "settings": {
+        "horizontal_alignment_flex_direction_column": "center",
+        "gap": 20,
+        "section_width": "page-width",
+        "background_color": "#141312",
+        "padding-block-start": 96,
+        "padding-block-end": 96
+      }
     }
   },
   "order": [
     "hero_jVaWmY",
-    "product_list_fa6P9H"
+    "product_list_fa6P9H",
+    "story_bihtime"
   ]
 }

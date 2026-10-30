@@ -22,7 +22,12 @@ Technische Hinweise zum Theme stehen in `AGENTS.md`.
 ## Technik
 
 - **Shop:** `rjydix-2b.myshopify.com`, Shopify Basic (3 Monate für 1 €, danach 36 €/Monat)
-- **Theme:** Horizon (live, ID 209718837585), lokal in diesem Ordner, Git-Repo mit Ausgangsstand
+- **Theme:** Horizon 4.3.0, lokal in diesem Ordner, Git-Repo auf GitHub (AmkoAmin/shopify-shop, privat)
+  - Live: „Horizon“ (ID 209718837585), unverändert
+  - Entwurf: „bihtime Design v1“ (ID 209820844369, unveröffentlicht), Vorschau: https://rjydix-2b.myshopify.com?preview_theme_id=209820844369
+  - Design v1: Farben Hintergrund #0B0B0B, Text #F2EBDD, gedämpft #CFC6B6, Linien #2A2826; Überschriften Cormorant, Text Inter; eckige Buttons. Startseite: Hero mit Spruch, Kollektion (3 Spalten), Abschnitt „Die Lilie“.
+  - Hinweis: Section-Abstände (padding) dürfen maximal 100 sein.
+- **Hochladen ins Entwurfs-Theme:** `shopify theme push --store rjydix-2b.myshopify.com --theme 209820844369`
 - **Shopify CLI:** liegt in `~/.local/bin/shopify`
 - **Vorschau:** `shopify theme dev --store rjydix-2b.myshopify.com` im eigenen Terminal starten (fragt nach dem Shop-Passwort), dann unter http://127.0.0.1:9292
 - **Hochladen:** `shopify theme push --store rjydix-2b.myshopify.com` – erst nach Freigabe durch Amin
@@ -101,7 +106,7 @@ Technische Hinweise zum Theme stehen in `AGENTS.md`.
 - [ ] Prüfen, ob die Registrierung im Verpackungsregister LUCID nötig ist
 
 ### 5. Shop (bis ca. 12.11.)
-- [ ] Claude: Farben, Schriften und Startseite im Theme Horizon einrichten
+- [x] Claude: Farben, Schriften und Startseite im Theme Horizon einrichten (Entwurf „bihtime Design v1“, 30.10.2026)
 - [ ] Claude: Produkttexte und Größentabelle schreiben
 - [ ] Amin: alles in der Vorschau prüfen
 - [ ] Rechtstexte einbinden (Impressum, Datenschutz, AGB, Widerruf), Cookie-Banner einrichten
