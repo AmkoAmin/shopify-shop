@@ -1,0 +1,36 @@
+=== PROMPT 1: RANKE (Stickerei, ca. 20 x 5-6 cm) ===
+Bilder hochladen: (1) RBiH-Flagge, (2) mockup-longsleeve-v1.png
+
+Create a flat embroidery production artwork, front view, on a fully transparent background. Recreate the lily vine from the "DETAIL – VORDERSEITE" close-up in image 2 as clean flat artwork: a horizontal flowing stem with about 8 to 10 leaves, one open natural lily blossom and one bud along the stem, ending on the right with a heraldic lily that copies the slender golden lilies in image 1 exactly (slender and tall, narrow pointed central petal, small curled side petals, thin band, slightly elongated foot).
+Requirements:
+- One solid color only: cream white #F2EBDD. No shading, no gradients, no thread texture, no fabric, no shadows.
+- Designed for embroidery at 20 cm wide x 5-6 cm high: stems at least 2 mm thick at that size, every leaf at least 6 mm long, clear gaps of at least 1.5 mm between all elements, no hairlines.
+- No stamens or tiny details inside the blossom; show the petals as simple solid shapes with small gaps between them.
+- The heraldic lily must be about 4 cm high at final size.
+- Wide horizontal format, aspect ratio about 4:1, high resolution.
+
+=== PROMPT 2: LILIE ALLEIN (Stickerei, ca. 4 cm hoch, fuer "Ljiljan" und Beanie) ===
+Bild hochladen: (1) RBiH-Flagge
+
+Create a flat embroidery production artwork on a fully transparent background: one single heraldic lily that copies the slender golden lilies in image 1 exactly (slender and tall, narrow pointed central petal, small curled side petals, thin horizontal band, slightly elongated foot with small curled ends). Ignore the flag's colors, shield and stripe.
+Requirements:
+- One solid color only: cream white #F2EBDD. Filled solid shape, no outlines-only, no shading, no gradients, no texture.
+- Designed for embroidery at 4 cm high: the thinnest part (band, curled ends) must still be at least 1.5 mm at that size, gaps at least 1 mm. Simplify tiny curls if needed, but keep the slender proportions.
+- Centered, square format, high resolution.
+
+=== PROMPT 3: RUECKENSCHRIFT (Druck, ca. 10-12 x 3 cm) ===
+Bild hochladen: (1) RBiH-Flagge
+Tipp: Den Text lieber selbst in Canva oder Figma setzen (z. B. Cormorant Garamond) und nur das Ornament per KI erstellen. KI schreibt Text oft fehlerhaft.
+
+Create a flat print production artwork on a fully transparent background. Two lines of centered text in an elegant classic serif font, all lowercase, spelled exactly: "you met me at a very" / "bosnian time in my life". Below the text, a thin horizontal ornamental line with a tiny heraldic lily in the center that copies the slender golden lilies in image 1.
+Requirements:
+- One solid color only: cream white #F2EBDD. No shading, no texture, no background, no fabric.
+- Designed for print at 10-12 cm wide and about 3 cm high: thinnest lines at least 0.5 mm at that size.
+- Horizontal format, aspect ratio about 4:1, high resolution.
+
+=== EXPORT ===
+PNG, transparenter Hintergrund, 300 DPI in Originalgroesse:
+- Ranke: ca. 2400 x 650 px
+- Lilie allein: ca. 480 px hoch (lieber groesser, z. B. 1200 px, und skalieren)
+- Rueckenschrift: ca. 1400 x 360 px
+Ablegen in ~/shopify-shop/design/ (z. B. ranke-v1.png, lilie-v1.png, rueckenschrift-v1.png)
