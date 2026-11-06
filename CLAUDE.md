@@ -80,12 +80,12 @@ Technische Hinweise zum Theme stehen in `AGENTS.md`.
 - [ ] TikTok- und Instagram-Account anlegen
 
 ### 2. Design (bis 31.10.)
-- [ ] Fleur-de-Lis durch die bosnische Lilie ersetzen
-- [ ] Beanie-Motiv erstellen (Lilie ca. 4 cm hoch, eventuell mit Schriftzug)
+- [x] Fleur-de-Lis durch die bosnische Lilie ersetzen
+- [x] Beanie-Motiv erstellen (= `design/lilie-final.png`)
 - [x] Mockup Longsleeve „Ranke“ (`design/mockup-longsleeve-v1.png`)
 - [ ] Mockup mit kleiner Rückenschrift unter dem Kragen aktualisieren
 - [x] Produktionsdateien v2 (30.10.2026): `design/ranke-v2.png`, `design/lilie-v2.png`, `design/rueckenschrift-v2.png` – bereinigt (Rauschen entfernt, einheitlich #F2EBDD, 300 DPI), überall dieselbe Lilie aus lilie-v1. Die v1-Dateien sind die ungeänderten Originale aus ChatGPT.
-- [ ] Motive für Stickerei vereinfachen (dickere Linien, weniger Blätter, keine Schattierung)
+- [x] Motive für Stickerei vereinfachen (dickere Linien, weniger Blätter, keine Schattierung)
 
 ### 3. Printful und Teststich (bis ca. 2.11.)
 - [x] Printful-Konto anlegen bzw. einloggen
@@ -113,7 +113,7 @@ Technische Hinweise zum Theme stehen in `AGENTS.md`.
 - [ ] Rechtstexte einbinden (Impressum, Datenschutz, AGB, Widerruf), Cookie-Banner einrichten
 - [ ] Shopify Payments und PayPal einrichten
 - [ ] Versandzonen und -preise festlegen
-- [ ] Domain mit dem Shop verbinden
+- [x] Domain mit dem Shop verbinden
 
 ### 6. Videos (parallel)
 - [ ] fal.ai-Konto anlegen, ca. 20 € Guthaben aufladen
